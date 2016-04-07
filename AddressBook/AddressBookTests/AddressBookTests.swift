@@ -2,8 +2,8 @@
 //  AddressBookTests.swift
 //  AddressBookTests
 //
-//  Created by Tinh on 4/7/16.
-//  Copyright © 2016 Tinh. All rights reserved.
+//  Created by Seven on 11/24/15.
+//  Copyright © 2015 Seven. All rights reserved.
 //
 
 import XCTest

@@ -14,7 +14,7 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "DCBB02E11CB60323001A7021"
+               BlueprintIdentifier = "14EFC1E11C03F9AC003B4578"
                BuildableName = "AddressBook.app"
                BlueprintName = "AddressBook"
                ReferencedContainer = "container:AddressBook.xcodeproj">
@@ -32,19 +32,9 @@
             skipped = "NO">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "DCBB02F81CB60323001A7021"
+               BlueprintIdentifier = "14EFC1F81C03F9AC003B4578"
                BuildableName = "AddressBookTests.xctest"
                BlueprintName = "AddressBookTests"
-               ReferencedContainer = "container:AddressBook.xcodeproj">
-            </BuildableReference>
-         </TestableReference>
-         <TestableReference
-            skipped = "NO">
-            <BuildableReference
-               BuildableIdentifier = "primary"
-               BlueprintIdentifier = "DCBB03031CB60323001A7021"
-               BuildableName = "AddressBookUITests.xctest"
-               BlueprintName = "AddressBookUITests"
                ReferencedContainer = "container:AddressBook.xcodeproj">
             </BuildableReference>
          </TestableReference>
@@ -52,7 +42,7 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "DCBB02E11CB60323001A7021"
+            BlueprintIdentifier = "14EFC1E11C03F9AC003B4578"
             BuildableName = "AddressBook.app"
             BlueprintName = "AddressBook"
             ReferencedContainer = "container:AddressBook.xcodeproj">
@@ -75,7 +65,7 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "DCBB02E11CB60323001A7021"
+            BlueprintIdentifier = "14EFC1E11C03F9AC003B4578"
             BuildableName = "AddressBook.app"
             BlueprintName = "AddressBook"
             ReferencedContainer = "container:AddressBook.xcodeproj">
@@ -94,7 +84,7 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "DCBB02E11CB60323001A7021"
+            BlueprintIdentifier = "14EFC1E11C03F9AC003B4578"
             BuildableName = "AddressBook.app"
             BlueprintName = "AddressBook"
             ReferencedContainer = "container:AddressBook.xcodeproj">
